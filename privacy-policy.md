@@ -7,6 +7,17 @@ BadoCreativity/MyRealEstates built the MyRealEstates app as a free app. This SER
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
+
+### User Generated Content Policy  
+* require that users accept the app's terms of use and/or user policy before users can create or upload UGC;
+define objectionable content and behaviors (in a way that complies with Play’s Developer Program Policies), and prohibit them in the app’s terms of use or user policies;
+* implement robust, effective and ongoing UGC moderation, as is reasonable and consistent with the type of UGC hosted by the app
+In the case of live-streaming apps, objectionable UGC must be removed as close to real-time as reasonably possible;
+* In the case of augmented reality (AR) apps, UGC moderation (including the in-app reporting system) must account for both objectionable AR UGC (e.g. a sexually explicit AR image) and sensitive AR anchoring location (e.g. AR content anchored to a restricted area, such as a military base, or a private property where AR anchoring may cause issues for the property owner);
+* provide a user-friendly, in-app system for reporting objectionable UGC and take action against that UGC where appropriate;
+remove or block abusive users who violate the app's terms of use and/or user policy;
+* provide safeguards to prevent in-app monetization from encouraging objectionable user behavior.
+
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to identify you. 
